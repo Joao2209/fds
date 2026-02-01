@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Feb 2026 03:01:54 at https://veja-agora-mesmo.online/xotaku/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://veja-agora-mesmo.online/xotaku/ -O1 "C:\Users\osmar\Downloads\fds" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:02:19	Warning: 	link is probably looping, type unknown, aborting: https://remote-debugger.internal.vturb.com/target.js
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/signals/config/ (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/t (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/e (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/signals/plugins/ (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/schema.org/ (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/t.resolvedLink (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/o (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/signals/iwl.js (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/signals/iwl.js?pixel_id= (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/r.dl (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/r.rl (from https://veja-agora-mesmo.online/xotaku/js/fbevents.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/Bun/ (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/Deno/ (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/Node.js/ (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/POST (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/window.location.href (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/t,this.win.location.href (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Forbidden" (403) at link https://images.converteai.net/{accountId}/players/{playerId}/thumbnail.jpg (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/r,window.location.href (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/s,o (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/e,r (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/GET (from https://veja-agora-mesmo.online/xotaku/js/smartplayer.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/wa.me (from https://veja-agora-mesmo.online/xotaku/js/latest.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/n,window.location.origin (from https://veja-agora-mesmo.online/xotaku/js/frontend-modules.min.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/t,window.location.origin (from https://veja-agora-mesmo.online/xotaku/js/frontend-modules.min.js)
+03:02:21	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/plugins.php (from https://veja-agora-mesmo.online/xotaku/js/frontend-modules.min.js)
+03:02:22	Error: 	"Not Found" (404) at link https://veja-agora-mesmo.online/xotaku/OPR/ (from https://veja-agora-mesmo.online/xotaku/js/frontend.min_1.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 90 links scanned, 62 files written (18686893 bytes overall) [16371397 bytes received at 584692 bytes/sec], 3432661 bytes transferred using HTTP compression in 52 files, ratio 27%, 7.6 requests per connection
+(27 errors, 1 warnings, 0 messages)
